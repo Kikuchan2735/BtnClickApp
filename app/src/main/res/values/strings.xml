@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ボタンクリックApp</string>
+    <string name="start_text">スタート！</string>
+    <string name="push_text">押せ！</string>
+    <string name="cnt_text">回目</string>
+    <string name="toast_text">回押されました！！！</string>
+</resources>
